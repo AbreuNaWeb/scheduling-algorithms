@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1476201582 source:c:\users\abreu\desktop\scheduling algorithms\main.c
+	<stdio.h>
+	<stdlib.h>
+
